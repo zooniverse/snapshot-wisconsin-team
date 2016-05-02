@@ -1,7 +1,7 @@
 {
-  "name": "wisconsin-wildlife-watch-team",
+  "name": "snapshot-wisconsin-team",
   "version": "1.0.0",
-  "description": "Team-Organization-Image_Source Page for Wisconsin Wildlife Watch",
+  "description": "Team-Organization-Image_Source Page for Snapshot Wisconsin",
   "main": "app.js",
   "repository": {
     "type": "",
