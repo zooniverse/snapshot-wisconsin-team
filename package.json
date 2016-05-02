@@ -1,7 +1,7 @@
 {
   "name": "snapshot-wisconsin-team",
   "version": "1.0.0",
-  "description": "Team-Organization-Image_Source Page for Snapshot Wisconsin",
+  "description": "Team-Organization-ImageSource Page for Snapshot Wisconsin",
   "main": "app.js",
   "repository": {
     "type": "",
@@ -9,8 +9,8 @@
   },
   "scripts": {
     "start": "gulp watch",
-    "deploy-to-staging": "gulp build && publisssh ./public zooniverse-static/preview.zooniverse.org/wisconsin-wildlife-watch-team && gulp clean",
-    "deploy-to-production": "gulp build && publisssh ./public zooniverse-static/wisconsin-wildlife-watch-team && gulp clean",
+    "deploy-to-staging": "gulp build && publisssh ./public zooniverse-static/preview.zooniverse.org/snapshot-wisconsin-team && gulp clean",
+    "deploy-to-production": "gulp build && publisssh ./public zooniverse-static/snapshot-wisconsin-team && gulp clean",
     "deploy": "npm run deploy-to-staging && npm run deploy-to-production"
   },
   "author": "",
