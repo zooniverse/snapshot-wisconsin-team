@@ -1,9 +1,5 @@
 node_modules
 
-public/images
-public/js
-public/styles
-
 .DS_Store
 .idea
 .log
